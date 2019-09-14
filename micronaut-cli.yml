@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: football.league.metrics
+---
+testFramework: junit
+sourceLanguage: java
